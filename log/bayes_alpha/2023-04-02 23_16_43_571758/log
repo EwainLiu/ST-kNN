@@ -1,0 +1,29 @@
+alpha: 415, beta: 40, binNum: 200
+time: 11.778
+avg_time: 2.3556
+
+alpha: 432, beta: 40, binNum: 200
+time: 11.582
+avg_time: 2.3164000000000002
+
+alpha: 372, beta: 40, binNum: 200
+time: 21.491
+avg_time: 4.2982
+
+alpha: 148, beta: 40, binNum: 200
+time: 12.395
+avg_time: 2.479
+
+alpha: 792, beta: 40, binNum: 200
+time: 20.803
+avg_time: 4.1606000000000005
+
+alpha: 67, beta: 40, binNum: 200
+time: 22.205
+avg_time: 4.441
+
+alpha: 552, beta: 40, binNum: 200
+time: 17.207
+avg_time: 3.4414000000000002
+
+alpha: 404, beta: 40, binNum: 200

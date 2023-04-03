@@ -1,0 +1,239 @@
+alpha: 200, beta: 40, binNum: 716
+time: 4.482
+time: 4.375
+time: 4.404
+time: 4.446
+time: 4.388
+avg_time: 4.419
+
+alpha: 200, beta: 40, binNum: 434
+time: 4.354
+time: 4.406
+time: 4.741
+time: 4.411
+time: 4.491
+avg_time: 4.4806
+
+alpha: 200, beta: 40, binNum: 694
+time: 4.429
+time: 4.347
+time: 4.538
+time: 4.431
+time: 4.499
+avg_time: 4.4488
+
+alpha: 200, beta: 40, binNum: 722
+time: 4.399
+time: 4.288
+time: 4.31
+time: 4.433
+time: 4.455
+avg_time: 4.377
+
+alpha: 200, beta: 40, binNum: 496
+time: 4.209
+time: 4.434
+time: 4.394
+time: 4.429
+time: 4.319
+avg_time: 4.357
+
+alpha: 200, beta: 40, binNum: 782
+time: 4.59
+time: 4.309
+time: 4.282
+time: 4.317
+time: 4.407
+avg_time: 4.381
+
+alpha: 200, beta: 40, binNum: 417
+time: 4.437
+time: 4.474
+time: 4.431
+time: 4.21
+time: 4.333
+avg_time: 4.377000000000001
+
+alpha: 200, beta: 40, binNum: 584
+time: 4.333
+time: 4.364
+time: 4.33
+time: 4.22
+time: 4.373
+avg_time: 4.324
+
+alpha: 200, beta: 40, binNum: 149
+time: 4.377
+time: 4.236
+time: 4.342
+time: 4.445
+time: 4.219
+avg_time: 4.3238
+
+alpha: 200, beta: 40, binNum: 407
+time: 4.275
+time: 4.349
+time: 4.408
+time: 4.318
+time: 4.375
+avg_time: 4.345000000000001
+
+alpha: 200, beta: 40, binNum: 631
+time: 4.532
+time: 4.258
+time: 4.673
+time: 4.296
+time: 4.374
+avg_time: 4.4266
+
+alpha: 200, beta: 40, binNum: 331
+time: 4.276
+time: 4.325
+time: 4.423
+time: 4.308
+time: 4.357
+avg_time: 4.3378
+
+alpha: 200, beta: 40, binNum: 252
+time: 4.394
+time: 4.383
+time: 4.426
+time: 4.318
+time: 4.333
+avg_time: 4.3708
+
+alpha: 200, beta: 40, binNum: 698
+time: 4.295
+time: 4.398
+time: 4.271
+time: 4.352
+time: 4.266
+avg_time: 4.3164
+
+alpha: 200, beta: 40, binNum: 598
+time: 4.439
+time: 4.473
+time: 4.284
+time: 4.434
+time: 4.351
+avg_time: 4.396199999999999
+
+alpha: 200, beta: 40, binNum: 635
+time: 4.197
+time: 4.219
+time: 4.444
+time: 4.432
+time: 4.382
+avg_time: 4.3347999999999995
+
+alpha: 200, beta: 40, binNum: 446
+time: 4.294
+time: 4.3
+time: 4.381
+time: 4.117
+time: 4.424
+avg_time: 4.3031999999999995
+
+alpha: 200, beta: 40, binNum: 93
+time: 4.534
+time: 4.339
+time: 4.31
+time: 4.416
+time: 4.412
+avg_time: 4.4022
+
+alpha: 200, beta: 40, binNum: 715
+time: 4.475
+time: 4.442
+time: 4.309
+time: 4.307
+time: 4.413
+avg_time: 4.389200000000001
+
+alpha: 200, beta: 40, binNum: 434
+time: 4.354
+time: 4.406
+time: 4.741
+time: 4.411
+time: 4.491
+avg_time: 4.4806
+
+alpha: 200, beta: 40, binNum: 704
+time: 4.361
+time: 4.215
+time: 4.337
+time: 4.296
+time: 4.363
+avg_time: 4.3144
+
+alpha: 200, beta: 40, binNum: 643
+time: 4.375
+time: 4.389
+time: 4.303
+time: 4.288
+time: 4.445
+avg_time: 4.36
+
+alpha: 200, beta: 40, binNum: 454
+time: 4.226
+time: 4.374
+time: 4.272
+time: 4.31
+time: 4.345
+avg_time: 4.3054
+
+alpha: 200, beta: 40, binNum: 734
+time: 4.322
+time: 4.375
+time: 4.483
+time: 4.291
+time: 4.367
+avg_time: 4.3676
+
+alpha: 200, beta: 40, binNum: 572
+time: 4.285
+time: 4.39
+time: 4.289
+time: 4.39
+time: 4.335
+avg_time: 4.3378
+
+alpha: 200, beta: 40, binNum: 162
+time: 4.27
+time: 4.46
+time: 4.42
+time: 4.243
+time: 4.243
+avg_time: 4.3272
+
+alpha: 200, beta: 40, binNum: 135
+time: 4.379
+time: 4.383
+time: 4.314
+time: 4.337
+time: 4.323
+avg_time: 4.3472
+
+alpha: 200, beta: 40, binNum: 177
+time: 4.37
+time: 4.3
+time: 4.208
+time: 4.4
+time: 4.269
+avg_time: 4.309399999999999
+
+alpha: 200, beta: 40, binNum: 188
+time: 4.345
+time: 4.208
+time: 4.271
+time: 4.425
+time: 4.584
+avg_time: 4.3666
+
+alpha: 200, beta: 40, binNum: 470
+time: 4.544
+time: 4.551
+time: 4.363
+time: 4.352
+time: 4.572
+avg_time: 4.4764

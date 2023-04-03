@@ -1,0 +1,180 @@
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
+alpha: 200, beta: 40, binNum: 53
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 53 30 15 ./resources/point_r ./resources/point_s ./results/200_40_53/0
+time: 11.902
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 53 30 15 ./resources/point_r ./resources/point_s ./results/200_40_53/1
+time: 12.974
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 53 30 15 ./resources/point_r ./resources/point_s ./results/200_40_53/2
+time: 13.785
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 53 30 15 ./resources/point_r ./resources/point_s ./results/200_40_53/3
+time: 13.437
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 53 30 15 ./resources/point_r ./resources/point_s ./results/200_40_53/4
+time: 12.626
+avg_time: 12.9448
+alpha: 200, beta: 40, binNum: 204
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 204 30 15 ./resources/point_r ./resources/point_s ./results/200_40_204/0
+time: 12.065
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 204 30 15 ./resources/point_r ./resources/point_s ./results/200_40_204/1
+time: 13.214
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 204 30 15 ./resources/point_r ./resources/point_s ./results/200_40_204/2
+time: 15.157
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 204 30 15 ./resources/point_r ./resources/point_s ./results/200_40_204/3
+time: 12.36
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 204 30 15 ./resources/point_r ./resources/point_s ./results/200_40_204/4
+time: 11.995
+avg_time: 12.9582
+alpha: 200, beta: 40, binNum: 372
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 372 30 15 ./resources/point_r ./resources/point_s ./results/200_40_372/0
+time: 12.999
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 372 30 15 ./resources/point_r ./resources/point_s ./results/200_40_372/1
+time: 13.843
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 372 30 15 ./resources/point_r ./resources/point_s ./results/200_40_372/2
+time: 13.021
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 372 30 15 ./resources/point_r ./resources/point_s ./results/200_40_372/3
+time: 13.086
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 372 30 15 ./resources/point_r ./resources/point_s ./results/200_40_372/4
+time: 13.297
+avg_time: 13.249199999999998
+alpha: 200, beta: 40, binNum: 664
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 664 30 15 ./resources/point_r ./resources/point_s ./results/200_40_664/0
+time: 13.396
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 664 30 15 ./resources/point_r ./resources/point_s ./results/200_40_664/1
+time: 12.098
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 664 30 15 ./resources/point_r ./resources/point_s ./results/200_40_664/2
+time: 13.158
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 664 30 15 ./resources/point_r ./resources/point_s ./results/200_40_664/3
+time: 13.385
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 664 30 15 ./resources/point_r ./resources/point_s ./results/200_40_664/4
+time: 13.854
+avg_time: 13.178199999999999
+alpha: 200, beta: 40, binNum: 655
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 655 30 15 ./resources/point_r ./resources/point_s ./results/200_40_655/0
+time: 13.222
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 655 30 15 ./resources/point_r ./resources/point_s ./results/200_40_655/1
+time: 12.606
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 655 30 15 ./resources/point_r ./resources/point_s ./results/200_40_655/2
+time: 12.897
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 655 30 15 ./resources/point_r ./resources/point_s ./results/200_40_655/3
+time: 12.621
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 655 30 15 ./resources/point_r ./resources/point_s ./results/200_40_655/4
+time: 12.657
+avg_time: 12.8006
+alpha: 200, beta: 40, binNum: 237
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 237 30 15 ./resources/point_r ./resources/point_s ./results/200_40_237/0
+time: 12.594
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 237 30 15 ./resources/point_r ./resources/point_s ./results/200_40_237/1
+time: 12.928
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 237 30 15 ./resources/point_r ./resources/point_s ./results/200_40_237/2
+time: 13.076
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 237 30 15 ./resources/point_r ./resources/point_s ./results/200_40_237/3
+time: 13.051
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 237 30 15 ./resources/point_r ./resources/point_s ./results/200_40_237/4
+time: 14.775
+avg_time: 13.2848
+alpha: 200, beta: 40, binNum: 295
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/0
+time: 13.443
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/1
+time: 13.912
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/2
+time: 12.608
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/3
+time: 12.257
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/4
+time: 13.689
+avg_time: 13.181799999999999
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
+alpha: 200, beta: 40, binNum: 295
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/0
+time: 13.443
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/1
+time: 13.912
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/2
+time: 12.608
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/3
+time: 12.257
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/4
+time: 13.689
+avg_time: 13.181799999999999
+alpha: 200, beta: 40, binNum: 295
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/0
+time: 13.443
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/1
+time: 13.912
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/2
+time: 12.608
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/3
+time: 12.257
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 295 30 15 ./resources/point_r ./resources/point_s ./results/200_40_295/4
+time: 13.689
+avg_time: 13.181799999999999
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
+alpha: 200, beta: 40, binNum: 294
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/0
+time: 11.529
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/1
+time: 11.825
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/2
+time: 11.096
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/3
+time: 11.075
+command: java -cp ./jar/spatio-temporal-knn-join.jar org.apache.spark.spatialjoin.app.SpatialJoinApp 200 40 294 30 15 ./resources/point_r ./resources/point_s ./results/200_40_294/4
+time: 12.29
+avg_time: 11.563
